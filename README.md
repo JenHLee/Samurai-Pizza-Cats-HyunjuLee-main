@@ -25,7 +25,9 @@
 ![pizza-delete](https://user-images.githubusercontent.com/97131199/204732030-a5d349c3-0654-4bc3-b4f1-2b6892fca40e.gif)
 
 - Pizza: Cursor Pagenation
-![seemorepizza](https://user-images.githubusercontent.com/97131199/204732177-9e4a3bd7-1f39-440a-8e11-304c3c87e7b0.gif)
+https://user-images.githubusercontent.com/97131199/204732936-cacb1ad6-9b6b-425a-b524-13220248844e.mp4
+
+
 
 
 
